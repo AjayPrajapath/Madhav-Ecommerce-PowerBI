@@ -14,4 +14,4 @@ This project focuses on analyzing e-commerce sales data using Power BI.
 - Payment Mode Analysis
 
 ## 🖼️ Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/PowerBI-Dashbaord.png)
